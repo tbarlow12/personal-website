@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ecdfed9aa07863be62ae123b0ddf319",
+    "revision": "d56600b7e3362e9c7ef8b2c0e55ab93f",
     "url": "/personal-website-beta/index.html"
   },
   {
-    "revision": "95a38ae79f0cc307dcc7",
+    "revision": "fc4a50d5210e0e1ec8e2",
     "url": "/personal-website-beta/static/css/2.e5e8dd97.chunk.css"
   },
   {
-    "revision": "67cf3d24081cb1ea0dca",
-    "url": "/personal-website-beta/static/css/main.cfc8e2d9.chunk.css"
+    "revision": "19f2f4865274be627655",
+    "url": "/personal-website-beta/static/css/main.b7d5219a.chunk.css"
   },
   {
-    "revision": "95a38ae79f0cc307dcc7",
-    "url": "/personal-website-beta/static/js/2.6d221b76.chunk.js"
+    "revision": "fc4a50d5210e0e1ec8e2",
+    "url": "/personal-website-beta/static/js/2.253c4a99.chunk.js"
   },
   {
-    "revision": "67cf3d24081cb1ea0dca",
-    "url": "/personal-website-beta/static/js/main.532433f3.chunk.js"
+    "revision": "19f2f4865274be627655",
+    "url": "/personal-website-beta/static/js/main.713267b7.chunk.js"
   },
   {
     "revision": "60079d5fdf404a0792f5",
